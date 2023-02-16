@@ -1,0 +1,47 @@
+
+.container {
+    background: #0B973A;
+    width: 738px;
+    height: 92px;
+    display: flex;
+    align-items: center;
+    padding-left: 20%;
+    
+  }
+  
+  h1 {
+    font-size: 20px;
+    color: #FFFFFF;
+
+  }
+  .corpo{
+    
+    width: 738px;
+    height: 895px;
+    padding: 40px;
+  }
+  h2{
+    padding-left: 35%;
+    font-size: 25px;
+    color: #3C3B3B;
+    margin-bottom: 25px;
+  }
+  p{
+    font-size: 18px;
+    color:#000000 ;
+    font-weight: bold;
+  }
+  .foother{
+    background: #0B973A;
+    width: 738px;
+    height: 92px;
+    display: flex;
+    align-items: center;
+    padding-left: 15%;
+  }
+  h3{
+    font-size: 18px;
+    color: #FFFFFF;
+
+  }
+ 
